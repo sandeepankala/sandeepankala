@@ -1,7 +1,7 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Sandeep 👋
 
 ## What I Build
-[1-2 sentences about the type of projects you build. Be specific. "AI agents that automate PM workflows" beats "passionate about AI."]
+Fun projects using AI
 
 ## What I'm Working On
 - 🔨 [Current project name] — [one-line description]
